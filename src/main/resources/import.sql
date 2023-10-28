@@ -1,0 +1,3 @@
+INSERT INTO tb_user (nome, email, profissao, password) VALUES ('Renne Farias Dias', 'rennedias2003@gmail.com', 'Analista de Sistemas', '776428363533833');
+INSERT INTO tb_user (nome, email, profissao, password) VALUES ('Jaime Costa Farias', 'rennedias2003@gmail.com', 'Analista de Sistemas', '776428363533833');
+INSERT INTO tb_user (nome, email, profissao, password) VALUES ('Renan Farias Dias', 'rennedias2003@gmail.com', 'Analista de Sistemas', '776428363533833');
